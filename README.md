@@ -4,12 +4,16 @@ This project implements a real-time anomaly detection system using the **Modifie
 
 ## Table of Contents
 - [Overview](#overview)
+- [Screenshot](#screenshot)
 - [Algorithm](#algorithm)
 - [Installation](#installation)
 - [Usage](#usage)
 
 ## Overview
 This project simulates a data stream with seasonal variations and noise. It uses the Modified Z-Score technique to identify outliers (anomalies) and visualizes them in real time. The anomalies are displayed in red on a live plot, while normal data points are in white.
+
+## Screenshot
+![screenshot of realtime visualization](https://github.com/YoussefMamdouh53/Detecting-Anomalies-with-Modified-Z-Scores/blob/main/screenshot.png)
 
 ## Algorithm
 
